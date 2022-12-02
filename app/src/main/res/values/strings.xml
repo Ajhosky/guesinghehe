@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="number">int</string>
+    <string name="your_number">your number</string>
+    <string name="wpisz_liczbe_o_ktorej_bedziesz_zgadycwac_n_np_podales_x_to_pula_z_jakiej_bedziesz_zgadywac_to_od_1_do_x">Wpisz liczbe o ktorej bedziesz zgadycwac\n np. podales x to pula z jakiej bedziesz zgadywac to od 1 do x</string>
+</resources>
